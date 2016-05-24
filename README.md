@@ -13,3 +13,4 @@ Insert begin line : Ctr V, Shift i, type, esc
 If "VT-x is disabled in the BIOS for all CPU modes " error 
  
  "Settings" > System Settings > Processor > Enable the PAE/NX option. or Activate VTX ans Virtucalization tchnology Directed I/O in BIOS
+ http://stackoverflow.com/questions/33304393/vt-x-is-disabled-in-the-bios-for-both-all-cpu-modes-verr-vmx-msr-all-vmx-disabl
