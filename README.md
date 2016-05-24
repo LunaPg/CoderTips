@@ -7,3 +7,9 @@ Node.js Complexity Visualisation Tool : https://www.npmjs.com/package/grunt-plat
 #VIM
 
 Insert begin line : Ctr V, Shift i, type, esc
+
+#VirtualBox
+
+If "VT-x is disabled in the BIOS for all CPU modes " error 
+ 
+ "Settings" > System Settings > Processor > Enable the PAE/NX option. or Activate VTX ans Virtucalization tchnology Directed I/O in BIOS
