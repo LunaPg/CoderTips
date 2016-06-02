@@ -8,6 +8,11 @@ Node.js Complexity Visualisation Tool : https://www.npmjs.com/package/grunt-plat
 
 Opti : https://gist.github.com/yuval-a/d5794cc1439c08af085f
 
+## Mocha
+If you want to run only some specific test use :
+
+describe.only();
+
 ## VIM
 
 Insert begin line : Ctr V, Shift i, type, esc
